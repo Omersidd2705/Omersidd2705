@@ -5,7 +5,7 @@
 <h1 align="center">Hi😄 👋, I'm Omer Siddiqui</h1>
 
 <h3 align="center">"A Passionate Fullstack Developer from India !"</h3>
-<img alt="Coder GIF" height=650 width=650 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img alt="Coder GIF" height=500 width=650 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=remo2705&label=Profile%20views&color=0e75b6&style=flat" alt="remo2705" /> </p>
 <p align="left"> <a href="https://twitter.com/mohdomers" target="blank"><img src="https://img.shields.io/twitter/follow/mohdomers?logo=twitter&style=for-the-badge" alt="mohdomers" /></a> </p>
