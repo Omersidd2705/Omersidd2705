@@ -76,16 +76,14 @@
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
   </a>
-  <a href="https://langchain.com/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/L/langchain-logo-0E1E7AEF9C-seeklogo.com.png" alt="LangChain" width="40" height="40"/>
+
+  </a>
+ <a href="https://langchain.com/" target="_blank" rel="noreferrer">
+    <img src="https://logo.svgcdn.com/l/langchain-dark.svg" alt="LangChain" width="40" height="40"/>
   </a>
   <a href="https://langchain.com/langgraph" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/L/langgraph-logo-616429.svg" alt="LangGraph" width="40" height="40"/>
+    <img src="https://logo.svgcdn.com/l/langchain-dark.svg" alt="LangGraph" width="40" height="40"/>
   </a>
-  <a href="https://en.wikipedia.org/wiki/Generative_artificial_intelligence" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/artificialintelligence/artificialintelligence-original.svg" alt="Generative AI" width="40" height="40"/>
-  </a>
-
                                                           
 </p>
 
