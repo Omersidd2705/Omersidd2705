@@ -77,12 +77,12 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
   </a>
 
-  </a>
  <a href="https://langchain.com/" target="_blank" rel="noreferrer">
     <img src="https://logo.svgcdn.com/l/langchain-dark.svg" alt="LangChain" width="40" height="40"/>
   </a>
   <a href="https://langchain.com/langgraph" target="_blank" rel="noreferrer">
     <img src="https://logo.svgcdn.com/l/langchain-dark.svg" alt="LangGraph" width="40" height="40"/>
+  </a>
   </a>
                                                           
 </p>
